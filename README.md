@@ -2,8 +2,6 @@
 
 Extending [LatentLens](https://github.com/McGill-NLP/latentlens) interpretability methods to Video LLMs. We investigate whether video-trained models represent visual tokens differently from image-only models.
 
-**Paper:** [Interpreting Visual Tokens in Video-LLMs](https://github.com/BennoKrojer/Interpreting-VideoLLMs) (Overleaf-synced, `paper/` submodule)
-
 ## Setup
 
 ```bash
